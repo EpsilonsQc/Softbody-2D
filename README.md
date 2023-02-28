@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-This is a prototype made in Unity, attempting to replicate softbody physics framework by implementing a “mass-spring” system. This was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is one of the project made within the "Physics in video games" course (session 3 of 5).
+This is a prototype made in Unity, attempting to replicate softbody physics framework by implementing a “mass-spring” system. It was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is one of the project made within the "Physics in video games" course (session 3 of 5).
 
 ## F.A.Q.
 
